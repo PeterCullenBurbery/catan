@@ -446,3 +446,5 @@ buildNumber.properties
 .classpath
 #Ignore lock files
 .~lock.*#
+rule-sets/All-with-bookmarks.pdf
+rule-sets/All.pdf
